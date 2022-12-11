@@ -1,7 +1,7 @@
 # ExpenseAppJetpackCompose
 A demo expense app that showcases modern Android development architecture (MVVM + Kotlin + Clean Architecture + Jetpack Compose + Retrofit2 + Hilt + Coroutines + Kotlin Flow + mockK + Espresso + Junit)
 
-Built With
+## Built With
 App is built with Test Driven Development (TDD) approach and Clean Architecture.
 
 Jetpack Compose - Google's latest declarative UI toolkit
