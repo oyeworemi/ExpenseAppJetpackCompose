@@ -17,3 +17,7 @@ Coroutines - For asynchronous.
 Kotlin StateFlow & SharedFlow - Data objects that notify views.
 
 ViewModel - Stores UI-related data that isn't destroyed on UI changes.
+
+##ScreenShot
+
+
