@@ -18,6 +18,8 @@ Kotlin StateFlow & SharedFlow - Data objects that notify views.
 
 ViewModel - Stores UI-related data that isn't destroyed on UI changes.
 
-##ScreenShot
+## ScreenShot
+![Expense_App_1](https://user-images.githubusercontent.com/19665943/207149448-d178d8fb-22b4-4bf2-9813-7c4fbf0c7fba.jpg)
+
 
 
